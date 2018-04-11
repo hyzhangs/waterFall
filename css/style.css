@@ -1,0 +1,20 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+#main{
+	position: relative;
+	margin: 0 auto;
+	border: 1px solid red;
+}
+.box{
+	padding: 15px 0 0 15px;
+	float: left;
+}
+.wrapper{
+	padding: 10px;
+}
+.wrapper img{
+	width: 200px;
+	height: auto;
+}
